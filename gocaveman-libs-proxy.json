@@ -1,0 +1,6 @@
+{
+	"url": "https://github.com/vuejs/vue-router/",
+	"paths": [
+		"/dist/vue-router.js"
+	]
+}
